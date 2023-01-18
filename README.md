@@ -1,2 +1,2 @@
-# setup-app
+# Setup APP
 NLW Setup - Mobile
